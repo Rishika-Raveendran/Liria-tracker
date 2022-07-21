@@ -1,5 +1,5 @@
 body {
-	background-image: url("background.png");
+	background-color: #ECFEF1;
 }
 .react-calendar {
     border: none;
@@ -27,12 +27,12 @@ body {
 }
 
 .blood-red {
-	background: 
+	background: #669a6b
 }
 
 .MuiToolbar-regular {
-	background: lightpink;
-	color: firebrick;
+	background: #ECFEF1;
+	color: #669a6b;
 	font-family: "Lucida Grande";
 }
 
@@ -50,29 +50,29 @@ body {
 }
 
 .react-calendar__month-view__weekdays{
-	color: firebrick;
+	color: #659a6b;
 }
 
 .react-calendar__navigation button {
-	color: firebrick;
+	color: #77b67e;
 }
 
 .blood-1 {
-	background: firebrick;
+	background: #A1DAA7;
 }
 
 .blood-2 {
-	background: firebrick;
+	background: #A1DAA7;
 }
 
 .blood-3 {
-	background: firebrick;
+	background: #A1DAA7;
 }
 
 .blood-4 {
-	background: firebrick;
+	background: #A1DAA7;
 }
 
 .predict-1 {
-	background: lightcoral;
+	background: #92f8ad;
 }

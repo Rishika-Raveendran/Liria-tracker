@@ -129,6 +129,7 @@ class Add extends React.Component{
           </AppBar>
         </div>
         <div className="head">
+          <p>How dark is the blood?</p>
           <img className="image" alt="404" src={ bt } />
         </div>
         <div className="bleed_choice">
@@ -157,6 +158,7 @@ class Add extends React.Component{
             </AppBar>
           </div>
           <div className="head">
+            <p>How moody is it?</p>
             <img className="image" alt="404" src={ mt } />
           </div>
           <div className="bleed_choice">
@@ -185,6 +187,7 @@ class Add extends React.Component{
             </AppBar>
           </div>
           <div className="head">
+            <p>Were does it pain the most?</p>
             <img className="image" alt="404" src={ pt } />
           </div>
           <div className="bleed_choice">
@@ -213,6 +216,7 @@ class Add extends React.Component{
               </AppBar>
             </div>
             <div className="head">
+            <p>How heavy is the flow?</p>
               <img className="image" alt="404" src={ st } />
             </div>
             <div className="bleed_choice">

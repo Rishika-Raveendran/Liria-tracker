@@ -94,7 +94,7 @@ class Home extends React.Component{
             <AppBar position="static" className="app-bar">
               <Toolbar>
                 <Typography variant="h6" color="inherit" className={useStyles.title}>
-                  Period Tracker
+                  LIRIA PERIOD TRACKER
                 </Typography>
                 <IconButton edge="end" color="inherit" target="_blank"
                     href="https://github.com/XifeiNi/period-tracker">
